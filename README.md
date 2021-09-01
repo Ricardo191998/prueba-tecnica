@@ -1,4 +1,4 @@
-# For run the proyect you need to install node in your computer
+# For run the proyect you need to install node
 
 This project use node dependencies so , you need to [Install Node](https://nodejs.org/en/download/).
 
