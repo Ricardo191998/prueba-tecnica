@@ -1,0 +1,23 @@
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 32px;
+}
+
+.normalLink{
+  color: #FFFFFF;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.active{
+  color: #FFBE00;
+  font-family: Avenir;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0;
+  text-decoration: underline;
+}
